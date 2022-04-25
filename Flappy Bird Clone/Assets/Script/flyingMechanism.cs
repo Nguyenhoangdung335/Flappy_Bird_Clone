@@ -25,7 +25,7 @@ public class flyingMechanism : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag == "Obstacle")
         {
@@ -33,14 +33,11 @@ public class flyingMechanism : MonoBehaviour
             gameOver.SetActive(true);
             pauseGame();  
         }
-        else if (other.tag == "Score")
-        {
-            Debug.Log("Score");
-        }
     }
 
     void pauseGame ()
     {
         Time.timeScale = 0;
     }
+    
 }

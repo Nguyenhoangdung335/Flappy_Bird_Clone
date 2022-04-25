@@ -25,7 +25,7 @@ public class PipeSpawner : MonoBehaviour
             Vector3 randomHeight = new Vector3(originalPos[0], Random.Range(originalPos[1] - height, originalPos[1] + height), 0);
             GameObject temp = Instantiate(obstacle, randomHeight, Quaternion.identity);
             time = 0;
-            Destroy(temp, 3f);
+            Destroy(temp, 3.3f);
         }
         time += Time.deltaTime;
     }
