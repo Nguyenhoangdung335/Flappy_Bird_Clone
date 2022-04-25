@@ -4,6 +4,7 @@ public class TImeConTrol : MonoBehaviour
 {
     public float fastenFactor = 0.01f;
     public float timeBeforeChange = 0;
+    public flyingMechanism jump;
 
     public void Update()
     {

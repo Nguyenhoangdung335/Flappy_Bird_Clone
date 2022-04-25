@@ -6,14 +6,14 @@ using TMPro;
 public class Scoring : MonoBehaviour
 {
     public int score = 0;
-    
+    public TMP_Text text;
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.tag == "Score")
         {
             score++;
-            //Debug.Log(score);
+            text.text = score.ToString();
         }
     }
 }
