@@ -186,6 +186,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1408,6 +1409,61 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_29: -9133964909167736175
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_46: 6097939427461483271
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_32: -7886961402230916270
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_53: -3880367202017760206
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_49: -3403060875699473254
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_42: 8814629047290396678
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_55: -1885298965417791944
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_6: 4833047885619023606
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_8: -3382865535342563516
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_2: 6126052410143694693
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_31: -3366849492133605926
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_19: 6567082494548620841
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_24: -1145233285497554394
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_40: -2749501924233313902
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_35: 873902503314319331
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_37: 7031112908901681633
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_54: -200925567622289343
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_17: -1048177458092569736
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_0: -4392104304157947251
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_13: -1143215850203896396
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_20: 1068150967120600250
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_38: 7897699714481085962
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_4: -2341336460424302043
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_5: -4738184857927448807
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_26: -8238405827501801493
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_10: 8111763389466271278
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_16: -3412237506329056649
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_11: -8720391483459571600
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_43: -747622359305000405
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_50: 6771642868762603888
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_52: 5866810082004408680
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_7: 8181400831794835710
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_1: 3093180252604270660
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_48: 8342397452558713933
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_28: -2340302792136940747
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_51: -3350346694750089315
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_30: 4127468267634239837
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_41: -3153427650048557489
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_45: 3692100083372492291
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_15: -1168617873874707399
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_44: -2895199728164103980
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_3: -9102549590553931565
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_14: -4093333724845217786
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_12: 2848802605019521076
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_23: 3574852162339940766
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_27: -3132163591031789862
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_22: 87256138442340296
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_21: 3567304489684003680
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_47: -2331995170162509512
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_25: -6728168746311630138
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_34: 6298568890983475539
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_39: 5825093380541100335
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_18: 325068172851546099
+      https___weeklyhow.com_downloads_11-24-19_Flappy%20Bird%20Sprites_33: 3897338944024111322
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

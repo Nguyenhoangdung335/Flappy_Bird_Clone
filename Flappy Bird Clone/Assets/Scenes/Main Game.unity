@@ -760,8 +760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5dfc1fa3eae3a24c85d461436c97141, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fastenFactor: 0.2
-  timeBeforeChange: 0.5
+  fastenFactor: 0.01
   jump: {fileID: 0}
 --- !u!4 &599363002
 Transform:
